@@ -1,4 +1,4 @@
-﻿# Eliseo Cabello — Portafolio Profesional 3D
+﻿# Eliseo Cabello — Portafolio
 
 > **Portafolio de ingeniería de software artesanal** · Eliseo Omar Cabello Auccapuma
 > Estudiante de Ingeniería de Sistemas · Universidad Nacional de Ingeniería (UNI / FIIS) · Lima, Perú
