@@ -1,6 +1,6 @@
 ﻿# Eliseo Cabello — Portafolio
 
-> **Portafolio de ingeniería de software artesanal** · Eliseo Omar Cabello Auccapuma
+> **Portafolio** · Eliseo Omar Cabello Auccapuma
 > Estudiante de Ingeniería de Sistemas · Universidad Nacional de Ingeniería (UNI / FIIS) · Lima, Perú
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
@@ -13,7 +13,7 @@
 
 ## 🚀 Descripción
 
-Portafolio profesional interactivo con escena 3D en tiempo real, construido desde cero como ejercicio de ingeniería de software. Cada elemento visual —la estación de trabajo 3D, la terminal interactiva, el visor de proyectos— es un componente funcional diseñado y codificado de manera artesanal.
+Portafolio en tiempo real, construido desde cero como ejercicio. Cada elemento visual —la estación de trabajo 3D, la terminal interactiva, el visor de proyectos— es un componente funcional diseñado y codificado.
 
 **Características principales:**
 
